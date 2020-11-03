@@ -14,7 +14,7 @@
             {
                 "label": "Monodevelop Monokai",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Monodevelop Monokai-color-theme.json"
+                "path": "./themes/Monodevelop Monokai.json"
             }
         ]
     }
