@@ -1,0 +1,21 @@
+{
+    "name": "monodevelop-monokai",
+    "displayName": "Monodevelop Monokai for C#",
+    "description": "It is a theme for people who used to used monodevelop and love it's monokai theme!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monodevelop Monokai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monodevelop Monokai-color-theme.json"
+            }
+        ]
+    }
+}
