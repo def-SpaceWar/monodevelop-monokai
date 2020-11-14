@@ -20,14 +20,14 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#37BDA4"
+        "foreground": "#4ADEAC"
       }
     },
     {
       "name": "Colors",
       "scope": ["constant.other.color"],
       "settings": {
-        "foreground": "#37BDA4"
+        "foreground": "#4ADEAC"
       }
     },
     {
@@ -108,7 +108,7 @@
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        "foreground": "#37BDA4"
+        "foreground": "#4ADEAC"
       }
     },
     {
@@ -119,7 +119,7 @@
         "entity.name.variable"
       ],
       "settings": {
-        "foreground": "#37BDA4"
+        "foreground": "#4ADEAC"
       }
     },
     {

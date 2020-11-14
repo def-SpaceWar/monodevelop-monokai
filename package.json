@@ -2,7 +2,7 @@
   "name": "monodevelop-monokai",
   "displayName": "Monodevelop Monokai for C#",
   "description": "It is a theme for people who used to used monodevelop and love it's monokai theme!",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.50.0"
   },
