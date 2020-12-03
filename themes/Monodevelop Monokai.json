@@ -34,7 +34,8 @@
       "name": "Invalid",
       "scope": ["invalid", "invalid.illegal"],
       "settings": {
-        "foreground": "#FF5370"
+        "foreground": "#f8f8f2",
+        "background": "#F92672"
       }
     },
     {
@@ -45,7 +46,8 @@
         "keyword.other.unit",
         "keyword.other",
         "storage.modifier",
-        "keyword.type"
+        "keyword.type",
+        "punctuation.separator.hash"
       ],
       "settings": {
         "foreground": "#F92672"
@@ -274,5 +276,11 @@
         "foreground": "#EEFFFF"
       }
     }
-  ]
+  ],
+  "semanticTokenColors": {
+    "namespace": "#f8f8f2",
+    "class": "#66D9EF",
+    "struct": "#66D9EF",
+    "operatorOverloaded": "#f92672"
+  }
 }

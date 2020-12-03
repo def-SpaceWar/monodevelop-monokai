@@ -4,3 +4,11 @@ This is a theme for people who like C# intellisense and VS Code but not the them
 
 Screenshot:
 <img src="screenshot.png"/>
+
+If you want semantic so it looks even more like Monodevelop add this to your settings.json!
+
+```json
+"editor.semanticTokenColorCustomizations": {
+    "enabled": true // enable for all themes
+}
+```
